@@ -1,7 +1,10 @@
 # Smart Contracts
 
-## What are Smart Contracts?
-Smart Contracts are programs that live on the blockchain. These programs are executed when certain conditions are met. Smart Contracts eliminate the need for any intermediary's involvement and are sufficient to carry out an agreement between two parties. When the correct conditions are met, the contract is executed. 
+## IBM-What are smart contracts on blockain?
+Link: https://www.ibm.com/topics/smart-contracts
+
+## Smart Contracts
+Smart Contracts are programs that live on the blockchain. These programs are executed when certain conditions are met. Smart Contracts eliminate the need for any intermediary's involvement and are sufficient to carry out an agreement between two parties. When the correct conditions are met, the contract is executed. git
 
 ## Why are they beneficial?
 
